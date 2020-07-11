@@ -2,7 +2,7 @@
 Web Portfolio to showcase projects and skills in better manner. 
 
 
-###### https://jawaharputti.github.io/
+###### https://jawaharputti.github.io/pjc/
 
 
 ### About me
