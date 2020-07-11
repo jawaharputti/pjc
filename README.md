@@ -1,13 +1,10 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
+###### https://jawaharputti.github.io/
 
-###### https://vinaysomawat.github.io/
 
-![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/vinaysomawatgithubio.gif)
 ### About me
 * Competitive Programming Page
 * Web Designing Page
@@ -37,17 +34,7 @@ Web Portfolio to showcase projects and skills in better manner.
 3. Clone your fork `git clone https://github.com/yourgithubpseudo/yourgithubpseudo.github.io.git`
 4. Modify the `.html` files.
 
-#### To setup the project and contribute on your local machine:
 
-1. Click on `Fork`.
-2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/yourgithubpseudo/vinaysomawat.github.io.git`
-
-#### To contribute to the project:
-
-1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
-2. Comment on the issue: `Can I work on this?` and get assigned.
-3. Make changes to your fork and send a PR.
 
 #### To create a PR:
 
